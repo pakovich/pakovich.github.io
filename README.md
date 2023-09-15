@@ -1,2 +1,2 @@
 # pakovich.github.io
-![Alt text](https://pakovich.github.io/me.jpg)
+![Markdown symbol](https://pakovich.github.io/me.jpg)
